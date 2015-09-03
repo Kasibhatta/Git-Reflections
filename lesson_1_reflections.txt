@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+It helped me by bringing the old version and new version next to each other, so that I can
+compare everything in a quick fashion.
