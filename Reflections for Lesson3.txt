@@ -12,3 +12,7 @@ Forks are when you want to create a variant of a publicly available project.  Th
 Clone is to bring the Git-Hub project to one's own computer and work on it.  Fork alone does not give the project to one's desktop.  It merely creates the project under one's own GitHub account.  However, to work on it on one's desktop, one must clone it.
 
 Branch is when multiple people are working on a project or one wants to maintain an experimental etc.  Basically any situation, where you want the main/master to go on unhindered or multiple parallel developments to go on unhindered.  When one is fully convinced about one's changes of good production quality, one will merge with the master or other branches etc.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+You can always check the situation of difference between the versions of your commits versus the last commits from the remote so that you can determine the right course of action to resolve any potential conflicts and do the merges as appropriate.
