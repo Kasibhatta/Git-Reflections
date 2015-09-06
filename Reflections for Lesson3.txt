@@ -1,0 +1,6 @@
+I will be adding reflections for Lesson 3 here
+So far I have understood how GitHub works for creating new repositories from my desk.  It is a wonderful concept
+to be able to collaborate across the world.
+
+Why would we always want to manually pull changes rather than automatically?
+When you do pulls like this, you might accidentally override changes in your own version with what you pull.
