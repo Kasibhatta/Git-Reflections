@@ -4,3 +4,11 @@ to be able to collaborate across the world.
 
 Why would we always want to manually pull changes rather than automatically?
 When you do pulls like this, you might accidentally override changes in your own version with what you pull.
+
+Describes differences between forks, clones and branches.  When would you use one instead of another.
+
+Forks are when you want to create a variant of a publicly available project.  This allows both the original creator and the forks to work independently of each other at the same time allowing the credits to the original by way of cross-linking on Git-Hub by maintaining the number of forks against the original.
+
+Clone is to bring the Git-Hub project to one's own computer and work on it.  Fork alone does not give the project to one's desktop.  It merely creates the project under one's own GitHub account.  However, to work on it on one's desktop, one must clone it.
+
+Branch is when multiple people are working on a project or one wants to maintain an experimental etc.  Basically any situation, where you want the main/master to go on unhindered or multiple parallel developments to go on unhindered.  When one is fully convinced about one's changes of good production quality, one will merge with the master or other branches etc.
