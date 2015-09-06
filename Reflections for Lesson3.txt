@@ -16,3 +16,8 @@ Branch is when multiple people are working on a project or one wants to maintain
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can always check the situation of difference between the versions of your commits versus the last commits from the remote so that you can determine the right course of action to resolve any potential conflicts and do the merges as appropriate.
+How would you collaborate without Git or GitHub?  What would be easier and what would be harder?
+
+Without Git/GitHub, one would have to use some other source code control systems.  However, if all the developers that I collaborate have access to the same source control systems, we can still see the branches and other stuff and make the work still happen.  This would be easier.
+
+However, if I have to collaborate on open source projects with people that I do not know about across the world, it would be very difficult without a centralized system like GitHub and tools like Git that make it easy to keep close watch on the remote vs local copies.
