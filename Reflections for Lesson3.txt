@@ -21,3 +21,7 @@ How would you collaborate without Git or GitHub?  What would be easier and what 
 Without Git/GitHub, one would have to use some other source code control systems.  However, if all the developers that I collaborate have access to the same source control systems, we can still see the branches and other stuff and make the work still happen.  This would be easier.
 
 However, if I have to collaborate on open source projects with people that I do not know about across the world, it would be very difficult without a centralized system like GitHub and tools like Git that make it easy to keep close watch on the remote vs local copies.
+
+When would you want to make changes in a branch?  What benefits does the approach have?
+
+Whenever the feature I am working on is an experimental thing or whenever multiple people need to work on the same feature without stepping on to each other's toes for a while so that the development can be done in an unobstructed or focussed manner.  This does have the complexities, but the manual resolution has to take place to ensure the final code is what it is intended to be.  It is very advantageous when there is a collaborative team approach, in cutting down the development time, and bring the features to the market quickly.  Also, when you have some features developed in a branch, it becomes infinitely easier to request and receive reviews on the code from others, so the quality of what we deliver can be more assured.
